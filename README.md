@@ -1,16 +1,30 @@
-# React + Vite
+# پروژه مدیریت امور بازنشستگان بانک ملی ایران (فرانت‌اند)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+این پروژه یک برنامه وب توسعه داده شده با استفاده از React و Vite است که بخش فرانت‌اند سیستم مدیریت امور بازنشستگان بانک ملی ایران را پیاده‌سازی می‌کند. این بخش مسئولیت نمایش اطلاعات، ثبت درخواست‌ها و ارائه رابط کاربری مناسب برای بازنشستگان و مدیران را بر عهده دارد.
 
-Currently, two official plugins are available:
+## ویژگی‌های کلیدی
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+*   **تکنولوژی:** React.js، Vite.js
+*   **مدیریت وضعیت:** (اگر از کتابخانه‌ای مانند Redux، Zustand یا Context API استفاده کرده‌اید، اینجا ذکر کنید)
+*   **طراحی UI:** (اگر از کتابخانه UI مانند Material UI، Ant Design یا Tailwind CSS استفاده کرده‌اید، اینجا ذکر کنید)
+*   **مسیریابی:** (اگر از React Router یا کتابخانه دیگری استفاده کرده‌اید، اینجا ذکر کنید)
+*   **قابلیت‌ها:** (به صورت کلی به قابلیت‌های بخش فرانت‌اند اشاره کنید، مثلاً: نمایش لیست بازنشستگان، ثبت نام، مشاهده جزئیات، ... )
 
-## React Compiler
+## شروع به کار
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+برای راه‌اندازی و اجرای این پروژه روی سیستم خود، مراحل زیر را دنبال کنید:
 
-## Expanding the ESLint configuration
+### پیش‌نیازها
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+مطمئن شوید که Node.js و npm (یا Yarn) روی سیستم شما نصب شده باشند. می‌توانید آخرین نسخه Node.js را از [https://nodejs.org/](https://nodejs.org/) دانلود کنید.
+
+### نصب وابستگی‌ها
+
+1.  مخزن پروژه را کلون کنید یا فایل‌های آن را دانلود کنید.
+2.  در ترمینال، به پوشه اصلی پروژه بروید.
+3.  دستور زیر را برای نصب تمام وابستگی‌های پروژه اجرا کنید:
+```bash
+npm install
+# یا اگر از Yarn استفاده می‌کنید:
+# yarn install
+
