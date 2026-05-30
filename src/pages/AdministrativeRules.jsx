@@ -302,6 +302,7 @@ const AdministrativeRules = () => {
                 alignItems: 'center',
                 gap: 1.5,
                 flexShrink: 0,
+                fontFamily:"Vazir"
               }}
             >
               <FiClipboard style={{ fontSize: 24 }} />
@@ -331,6 +332,7 @@ const AdministrativeRules = () => {
             <Box sx={{ 
               p: 3, 
               overflowY: 'auto',
+              fontFamily:"Vazir",
               flex: 1,
               '&::-webkit-scrollbar': {
                 width: '8px',

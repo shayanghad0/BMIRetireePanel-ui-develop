@@ -697,7 +697,7 @@ const PayslipPage = () => {
                     </tr>
                     <tr className="bg-gray-100">
                       <th className="px-3 py-2 text-right text-xs font-bold text-black border-b border-l border-black">عنوان</th>
-                      <th className="px-3 py-2 text-right text-xs font-bold text-black border-b border-l border-black">مقدار (ریال)</th>
+                      <th className="px-3 py-2 text-right text-xs font-bold text-black border-b border-l border-black">مقدار </th>
                       <th className="px-3 py-2 text-right text-xs font-bold text-black border-b border-l border-black">عنوان</th>
                       <th className="px-3 py-2 text-right text-xs font-bold text-black border-b border-l border-black">مقدار (ریال)</th>
                       <th className="px-3 py-2 text-right text-xs font-bold text-black border-b border-l border-black">عنوان</th>
