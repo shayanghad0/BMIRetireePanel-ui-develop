@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Rubik";
+  src: url("./assets/Rubik.ttf");
+}
+
+
+@font-face {
+  font-family: "Nastaliq";
+  src: url("./assets/NotoNastaliqUrdu-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Vazir";
+  src: url("assets/Vazir.ttf");
+}
+
+body{
+  font-family: "Vazir";
+}
