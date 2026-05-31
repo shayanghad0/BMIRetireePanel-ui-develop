@@ -1,4 +1,5 @@
-![Banner](banner.png)
+![Banner](https://github.com/shayanghad0/BMIRetireePanel-ui-develop/blob/main/Banner.png)
+
 # پروژه مدیریت امور بازنشستگان بانک ملی ایران (فرانت‌اند)
 
 این یک پنل مدیریت امور اداری بازنشستگان تنظیم شده بر اساس نیاز های بانک ملی ایران هست 
