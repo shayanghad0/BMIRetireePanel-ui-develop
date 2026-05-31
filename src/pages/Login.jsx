@@ -109,7 +109,7 @@ const Login = ({ setIsLoggedIn }) => {
                                     <img
                                         src={BMILogo}
                                         alt="Bank Melli Iran"
-                                        className="w-26 h-32 "
+                                        className="w-65 h-65 "
                                     />
                                 </div>
                                 <div className='text-center' >
