@@ -180,9 +180,9 @@ const Login = ({ setIsLoggedIn }) => {
 
                             {/* Login Form */}
                             <div className="p-4">
-                                <div className="text-center mb-4" style={{fontFamily:"Rubik"}} >
+                                <div className="text-center mb-4" style={{fontFamily:"Vazir"}} >
                                     <h2 className="text-lg font-bold text-gray-800" style={{fontFamily:"Vazir"}}>ورود به حساب کاربری</h2>
-                                    <p className="text-gray-500 text-xs mt-1" style={{fontFamily:"Rubik"}} >اطلاعات کاربری خود را وارد کنید</p>
+                                    <p className="text-gray-500 text-xs mt-1" style={{fontFamily:"Vazir"}} >اطلاعات کاربری خود را وارد کنید</p>
                                 </div>
 
                                 <form onSubmit={handleSubmit} className="space-y-3">
